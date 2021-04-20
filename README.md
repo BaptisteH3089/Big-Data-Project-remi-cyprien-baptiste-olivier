@@ -2,6 +2,13 @@
 
 ## _Free Music Archive Dataset_
 
+### Group Composition
+
+1. Cyprien Cambus
+2. Olivier Robert
+3. Remi Perrichon
+4. Baptiste Hessel
+
 ### Notebooks
 
 1. A notebook developed on Databricks
