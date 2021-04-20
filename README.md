@@ -2,8 +2,8 @@
 
 ## Notebooks
 
-1. A notebook developped on Databricks
-2. A notebook developped on Colab
+1. A notebook developed on Databricks
+2. A notebook developed on Colab
 
 ## Two sets of data
 
